@@ -1,0 +1,23 @@
+body{
+    width: 100%;
+    min-height: 800px;
+    background-color: aliceblue;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+#absence{
+    max-width: 50%;
+    margin: auto;
+    justify-content: center;
+}
+
+li{
+    width: 50%;
+    margin: auto;
+}
